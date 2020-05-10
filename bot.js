@@ -151,4 +151,4 @@ client.on('guildMemberAdd', async member => {
 
 	channel.send(`Witaj na serwerze, ${member}!`, attachment);
 });
-client.login("Njk4NjEzMjQ5NjE2MTE3ODgx.XrZLMg.qu5gMliekyMWWKcLSVNCBZH7E0M");
+client.login("jestem idiotą");
